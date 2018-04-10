@@ -1,10 +1,90 @@
 ﻿  Game1.cpp
+c:\users\spen2\documents\github\posgames\posgames\Pong.h(108): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+c:\users\spen2\documents\github\posgames\posgames\Pong.h(109): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+c:\users\spen2\documents\github\posgames\posgames\Pong.h(110): warning C4244: 'argument': conversion from 'const float' to 'int', possible loss of data
+c:\users\spen2\documents\github\posgames\posgames\Pong.h(110): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+c:\users\spen2\documents\github\posgames\posgames\Pong.h(219): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+c:\users\spen2\documents\github\posgames\posgames\Pong.h(225): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+c:\users\spen2\documents\github\posgames\posgames\Pong.h(229): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+c:\users\spen2\documents\github\posgames\posgames\Pong.h(230): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+c:\users\spen2\documents\github\posgames\posgames\Pong.h(104): warning C4305: 'initializing': truncation from 'double' to 'float'
+  c:\users\spen2\documents\github\posgames\posgames\Pong.h(104): note: This diagnostic occurred in the compiler generated function 'void POSGames::Pong::Pong(void)'
   GoGame.cpp
+c:\users\spen2\documents\github\posgames\posgames\Pong.h(108): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+c:\users\spen2\documents\github\posgames\posgames\Pong.h(109): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+c:\users\spen2\documents\github\posgames\posgames\Pong.h(110): warning C4244: 'argument': conversion from 'const float' to 'int', possible loss of data
+c:\users\spen2\documents\github\posgames\posgames\Pong.h(110): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+c:\users\spen2\documents\github\posgames\posgames\Pong.h(219): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+c:\users\spen2\documents\github\posgames\posgames\Pong.h(225): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+c:\users\spen2\documents\github\posgames\posgames\Pong.h(229): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+c:\users\spen2\documents\github\posgames\posgames\Pong.h(230): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+c:\users\spen2\documents\github\posgames\posgames\Pong.h(104): warning C4305: 'initializing': truncation from 'double' to 'float'
+  c:\users\spen2\documents\github\posgames\posgames\Pong.h(104): note: This diagnostic occurred in the compiler generated function 'void POSGames::Pong::Pong(void)'
   MainWindow.cpp
+c:\users\spen2\documents\github\posgames\posgames\Pong.h(108): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+c:\users\spen2\documents\github\posgames\posgames\Pong.h(109): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+c:\users\spen2\documents\github\posgames\posgames\Pong.h(110): warning C4244: 'argument': conversion from 'const float' to 'int', possible loss of data
+c:\users\spen2\documents\github\posgames\posgames\Pong.h(110): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+c:\users\spen2\documents\github\posgames\posgames\Pong.h(219): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+c:\users\spen2\documents\github\posgames\posgames\Pong.h(225): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+c:\users\spen2\documents\github\posgames\posgames\Pong.h(229): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+c:\users\spen2\documents\github\posgames\posgames\Pong.h(230): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+c:\users\spen2\documents\github\posgames\posgames\Pong.h(104): warning C4305: 'initializing': truncation from 'double' to 'float'
+  c:\users\spen2\documents\github\posgames\posgames\Pong.h(104): note: This diagnostic occurred in the compiler generated function 'void POSGames::Pong::Pong(void)'
   Memory.cpp
+c:\users\spen2\documents\github\posgames\posgames\Pong.h(108): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+c:\users\spen2\documents\github\posgames\posgames\Pong.h(109): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+c:\users\spen2\documents\github\posgames\posgames\Pong.h(110): warning C4244: 'argument': conversion from 'const float' to 'int', possible loss of data
+c:\users\spen2\documents\github\posgames\posgames\Pong.h(110): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+c:\users\spen2\documents\github\posgames\posgames\Pong.h(219): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+c:\users\spen2\documents\github\posgames\posgames\Pong.h(225): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+c:\users\spen2\documents\github\posgames\posgames\Pong.h(229): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+c:\users\spen2\documents\github\posgames\posgames\Pong.h(230): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+c:\users\spen2\documents\github\posgames\posgames\Pong.h(104): warning C4305: 'initializing': truncation from 'double' to 'float'
+  c:\users\spen2\documents\github\posgames\posgames\Pong.h(104): note: This diagnostic occurred in the compiler generated function 'void POSGames::Pong::Pong(void)'
   Pong.cpp
+c:\users\spen2\documents\github\posgames\posgames\Pong.h(108): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+c:\users\spen2\documents\github\posgames\posgames\Pong.h(109): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+c:\users\spen2\documents\github\posgames\posgames\Pong.h(110): warning C4244: 'argument': conversion from 'const float' to 'int', possible loss of data
+c:\users\spen2\documents\github\posgames\posgames\Pong.h(110): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+c:\users\spen2\documents\github\posgames\posgames\Pong.h(219): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+c:\users\spen2\documents\github\posgames\posgames\Pong.h(225): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+c:\users\spen2\documents\github\posgames\posgames\Pong.h(229): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+c:\users\spen2\documents\github\posgames\posgames\Pong.h(230): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+c:\users\spen2\documents\github\posgames\posgames\Pong.h(104): warning C4305: 'initializing': truncation from 'double' to 'float'
+  c:\users\spen2\documents\github\posgames\posgames\Pong.h(104): note: This diagnostic occurred in the compiler generated function 'void POSGames::Pong::Pong(void)'
   SpaceInvaders.cpp
+c:\users\spen2\documents\github\posgames\posgames\Pong.h(108): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+c:\users\spen2\documents\github\posgames\posgames\Pong.h(109): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+c:\users\spen2\documents\github\posgames\posgames\Pong.h(110): warning C4244: 'argument': conversion from 'const float' to 'int', possible loss of data
+c:\users\spen2\documents\github\posgames\posgames\Pong.h(110): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+c:\users\spen2\documents\github\posgames\posgames\Pong.h(219): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+c:\users\spen2\documents\github\posgames\posgames\Pong.h(225): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+c:\users\spen2\documents\github\posgames\posgames\Pong.h(229): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+c:\users\spen2\documents\github\posgames\posgames\Pong.h(230): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+c:\users\spen2\documents\github\posgames\posgames\Pong.h(104): warning C4305: 'initializing': truncation from 'double' to 'float'
+  c:\users\spen2\documents\github\posgames\posgames\Pong.h(104): note: This diagnostic occurred in the compiler generated function 'void POSGames::Pong::Pong(void)'
   ThreeCardMonte.cpp
+c:\users\spen2\documents\github\posgames\posgames\Pong.h(108): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+c:\users\spen2\documents\github\posgames\posgames\Pong.h(109): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+c:\users\spen2\documents\github\posgames\posgames\Pong.h(110): warning C4244: 'argument': conversion from 'const float' to 'int', possible loss of data
+c:\users\spen2\documents\github\posgames\posgames\Pong.h(110): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+c:\users\spen2\documents\github\posgames\posgames\Pong.h(219): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+c:\users\spen2\documents\github\posgames\posgames\Pong.h(225): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+c:\users\spen2\documents\github\posgames\posgames\Pong.h(229): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+c:\users\spen2\documents\github\posgames\posgames\Pong.h(230): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+c:\users\spen2\documents\github\posgames\posgames\Pong.h(104): warning C4305: 'initializing': truncation from 'double' to 'float'
+  c:\users\spen2\documents\github\posgames\posgames\Pong.h(104): note: This diagnostic occurred in the compiler generated function 'void POSGames::Pong::Pong(void)'
   main.cpp
+c:\users\spen2\documents\github\posgames\posgames\Pong.h(108): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+c:\users\spen2\documents\github\posgames\posgames\Pong.h(109): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+c:\users\spen2\documents\github\posgames\posgames\Pong.h(110): warning C4244: 'argument': conversion from 'const float' to 'int', possible loss of data
+c:\users\spen2\documents\github\posgames\posgames\Pong.h(110): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+c:\users\spen2\documents\github\posgames\posgames\Pong.h(219): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+c:\users\spen2\documents\github\posgames\posgames\Pong.h(225): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+c:\users\spen2\documents\github\posgames\posgames\Pong.h(229): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+c:\users\spen2\documents\github\posgames\posgames\Pong.h(230): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+c:\users\spen2\documents\github\posgames\posgames\Pong.h(104): warning C4305: 'initializing': truncation from 'double' to 'float'
+  c:\users\spen2\documents\github\posgames\posgames\Pong.h(104): note: This diagnostic occurred in the compiler generated function 'void POSGames::Pong::Pong(void)'
   Generating Code...
-  POSGames.vcxproj -> D:\C++ projects-files\POSGames\Debug\POSGames.exe
+  POSGames.vcxproj -> C:\Users\spen2\Documents\GitHub\POSGames\Debug\POSGames.exe
