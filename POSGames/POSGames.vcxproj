@@ -134,14 +134,17 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <ClCompile Include="consoleWindow.cpp" />
     <ClCompile Include="Game1.cpp" />
     <ClCompile Include="GoGame.cpp" />
-    <ClCompile Include="main.cpp" />
+    <ClCompile Include="GuessMyNumber.cpp" />
+    <ClCompile Include="POSGamesMain.cpp" />
     <ClCompile Include="MainWindow.cpp" />
     <ClCompile Include="Memory.cpp" />
     <ClCompile Include="Pong.cpp" />
+    <ClCompile Include="ScratchOff.cpp" />
     <ClCompile Include="SpaceInvaders.cpp" />
-    <ClCompile Include="ThreeCardMonte.cpp" />
+    <ClCompile Include="FindTheAce.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="Game1.h">
@@ -150,6 +153,17 @@
     <ClInclude Include="GoGame.h">
       <FileType>CppForm</FileType>
     </ClInclude>
+    <ClInclude Include="Game1_main.h" />
+    <ClInclude Include="consoleWindow.h" />
+    <ClInclude Include="GuessMyNumber.h">
+      <FileType>CppForm</FileType>
+    </ClInclude>
+    <ClInclude Include="randomList.h" />
+    <ClInclude Include="ScratchOff.h">
+      <FileType>CppForm</FileType>
+    </ClInclude>
+    <ClInclude Include="stdinRedirect.h" />
+    <ClInclude Include="stdoutRedirect.h" />
     <ClInclude Include="Memory.h">
       <FileType>CppForm</FileType>
     </ClInclude>
@@ -163,7 +177,7 @@
     <ClInclude Include="MainWindow.h">
       <FileType>CppForm</FileType>
     </ClInclude>
-    <ClInclude Include="ThreeCardMonte.h">
+    <ClInclude Include="FindTheAce.h">
       <FileType>CppForm</FileType>
     </ClInclude>
   </ItemGroup>
@@ -174,6 +188,9 @@
     <EmbeddedResource Include="GoGame.resx">
       <DependentUpon>GoGame.h</DependentUpon>
     </EmbeddedResource>
+    <EmbeddedResource Include="GuessMyNumber.resx">
+      <DependentUpon>GuessMyNumber.h</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="MainWindow.resx">
       <DependentUpon>MainWindow.h</DependentUpon>
     </EmbeddedResource>
@@ -183,15 +200,24 @@
     <EmbeddedResource Include="Pong.resx">
       <DependentUpon>Pong.h</DependentUpon>
     </EmbeddedResource>
+    <EmbeddedResource Include="ScratchOff.resx">
+      <DependentUpon>ScratchOff.h</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="SpaceInvaders.resx">
       <DependentUpon>SpaceInvaders.h</DependentUpon>
     </EmbeddedResource>
-    <EmbeddedResource Include="ThreeCardMonte.resx">
-      <DependentUpon>ThreeCardMonte.h</DependentUpon>
+    <EmbeddedResource Include="FindTheAce.resx">
+      <DependentUpon>FindTheAce.h</DependentUpon>
     </EmbeddedResource>
   </ItemGroup>
   <ItemGroup>
+    <Image Include="backOfCard.png" />
+    <Image Include="blackKing1.jpg" />
+    <Image Include="blackKingSpades.png" />
+    <Image Include="Core_cannon.jpg" />
     <Image Include="posgames_multisize.ico" />
+    <Image Include="RedAce.png" />
+    <Image Include="space.png" />
   </ItemGroup>
   <ItemGroup>
     <ResourceCompile Include="Resource.rc" />
